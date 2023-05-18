@@ -1,6 +1,11 @@
 # RandomJokes
 
 This is a simple Java-based web application that generates random jokes. It is built using the Spring Boot framework and provides an API endpoint to retrieve jokes.
+
+# Dependencies
+------------
+* Spring Boot Dev Tools
+* Spring Web
 ------------
 # Feature
 -------------
@@ -16,6 +21,11 @@ Maven build tool installed.
 Internet connection to access external API.
 
 * The application will start running on http://localhost:8080. You can access the API endpoint to retrieve jokes at http://localhost:8080/jokes.
+
+----------------
+# Language Used 
+----------------
+Java
 
 -----------------
 # API Endpoints
